@@ -1,3 +1,4 @@
+#include <stdlib.h>
 // voids and functions to deal with Matrixes
 void mx_product(int N, int mx1[][N], int mx2[][N], int res_mx[][N]){
 	for (int i = 0; i < N; i++){
@@ -73,6 +74,7 @@ void fill_vect(int N, int v1[], int num){
 // Void to deal with product of Matrix and Vector
 void product(int N, int mx[][N], int v1[], int res_vect[]){
 	for (int i = 0; i < N; i++){
+		res_vect[i] = 0;
 		for (int j = 0; j < N; j++){
 			res_vect[i] += mx[i][j] * v1[j];
 		}
@@ -119,12 +121,14 @@ int *F3(int N,
 		int v1[],
 		int v2[]
 ){
-	int res_vect[N];
+	int *res_vect;
 	int tmp_mx[N][N];
+	res_vect = malloc(N * sizeof(int));
+	if (res_vect == NULL){return NULL;}
 	mx_product(N, mx1, mx2, tmp_mx);
 	product(N, tmp_mx, v1, res_vect);
 	vect_sum(N, res_vect, v2, res_vect);
-	return *res_vect;
+	return res_vect;
 }
 
 
