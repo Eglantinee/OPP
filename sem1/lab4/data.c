@@ -3,7 +3,7 @@
 #include <omp.h>
 // voids and functions to deal with Matrixes
 void mx_product(int **mx1, int **mx2, int **res_mx, int N){
-	#pragma omp parallel for
+	#pragma omp parallel for 
 	for (int i = 0; i < N; i++){
 		for (int j = 0; j < N; j++){
 			res_mx[i][j] = 0;

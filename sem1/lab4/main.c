@@ -1,10 +1,10 @@
 //----------------------------------------------------------------
-//        --  Лабортаторна робота №4 Варіант 27
+//        --  Лабортаторна робота №5 Варіант 27
 //        --  F1: d = MAX(B + C) + MIN(A + (MA * ME)*B)
 //        --  F2: f = MAX(MG*MK) - MIN(ML + MН)
 //        --  F3: O = (MP*MR)*S + V
 //        --  Шкардибарда І. ІВ-82
-//        --  Дата 14.10.2020
+//        --  Дата 11.11.2020
 //----------------------------------------------------------------
 #include <stdio.h>
 #include <stdlib.h>
@@ -17,11 +17,8 @@ int main(int argc, char **argv){
 	// GOMP_CPU_AFFINITY="1 2 3" ./main -> bind thread to CPU
 	// OMP_STACKSIZE=10M ./main -> set new stecksize
 	// sleep() -> sleep for some time
-	int N = 1000;
+	int N = 4;
 	omp_set_nested(1);
-	//t1(N);
-	//t2(N);
-	//t3(N);
 	#pragma omp parallel sections
 	{
 		#pragma omp section

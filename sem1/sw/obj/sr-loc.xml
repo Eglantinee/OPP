@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_file>
+    <file_marker column=" 18" line=" 132" >
+      <vfs_project />
+      <vfs_file>/home/vanya/Semestr5/Labs/OPP/src/data.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 5" >
+      <vfs_project />
+      <vfs_file>/home/vanya/Semestr5/Labs/OPP/src/data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 24" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 58" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 27" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 29" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 47" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 47" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 39" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 33" >
+      <vfs_project>/home/vanya/Eglantine/opp/sw/sr.gpr</vfs_project>
+      <vfs_file>/home/vanya/Eglantine/opp/sw/src/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/vanya/Eglantine/opp/sw/sr.gpr
+20201201143950 370b9842f3fffa85de21d579562304a9
+[BOUND OBJECT FILES]
+/home/vanya/Eglantine/opp/sw/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/vanya/Eglantine/opp/sw/obj/
+-L/home/vanya/Eglantine/opp/sw/obj/
+-L/eglantine/GNAT/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/eglantine/GNAT/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnarl.a
+/eglantine/GNAT/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-lrt
+-lpthread
+-ldl
