@@ -1,0 +1,15 @@
+void mx_product(int **mx1, int **mx2, int **res_mx, int N);
+void mx_sum(int **mx1, int **mx2, int **res_mx, int N);
+int mx_min(int **mx, int N);
+int mx_max(int **mx, int N);
+void fill_mx(int **mx, int N, int num);
+void vect_sum(int v1[], int v2[], int res_vect[], int N);
+int vect_max(int v1[], int N);
+int vect_min(int v1[], int N);
+void fill_vect(int v1[], int N, int num);
+void product(int **mx, int v1[], int res_vect[], int N);
+void clear_mx(int **mx, int N);
+//int F1(int **mx1, int **mx2, int A[], int B[], int C[], int N);
+//int F2( int **mx1, int **mx2, int **mx3, int **mx4, int N);
+//int *F3(int **mx1, int **mx2, int v1[], int v2[], int N);
+void quickSort(int arr[], int low, int high);
