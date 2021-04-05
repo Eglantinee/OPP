@@ -1,0 +1,164 @@
+ 1 #include <stdlib.h>
+ 2 #include <stdio.h>
+ 3 #include <omp.h>
+ 4 // voids and functions to deal with Matrixes
+ 5 int **mx_product(int **mx1, int **mx2, int n, int m, int from)
+ 6 {
+ 7     int **result = (int **)malloc(n * sizeof(int *));
+ 8     for (int i = 0; i < m; i++)
+ 9     {
+10         result[i] = (int *)malloc(m * sizeof(int));
+11     }
+12     for (int i = 0; i < n; i++)
+13     {
+14         for (int j = 0; j < m; j++)
+15         {
+16             for (int k = 0; k < m; k++)
+17             {
+18                 result[i][j] += mx1[from + i][k] * mx2[k][j];
+19             }
+20         }
+21     }
+22     return result;
+23 }
+24 void mx_const_prodaction(int **mx, int n, int m, int from, int number)
+25 {
+26 	for (int i = 0; i < n; ++i)
+27 	{
+28 		for (int j = 0; j < m; ++j)
+29 		{
+30 			mx[from + i][j] *= number;
+31 		}
+32 	}
+33 }
+34 int  **mx_sum(int **mx1, int **mx2, int n, int m, int from)
+35 {
+36 	int **resMX = (int **)malloc(n * sizeof(int *));
+37 	for (int i = 0; i < n; i++)
+38 	{
+39 		resMX[i] = (int *)malloc(m * sizeof(int **));
+40 		for (int j = 0; j < m; j++)
+41 		{
+42 			resMX[i][j] = mx1[i][j] + mx2[from + i][j];
+43 		}
+44 	}
+45 	return resMX;
+46 }
+47 void fill_mx(int **mx, int N, int num){
+48 	for (int i = 0; i < N; i++){
+49 		for (int j = 0; j < N; j++){
+50 			mx[i][j] = num;
+51 		}
+52 	}
+53 }
+54 int vect_max(int *v1, int n, int from){
+55 	int res = v1[from];
+56 	for (int i = 0; i < n; ++i){
+57 		if (v1[i] > res){
+58 			res = v1[i];
+59 		}
+60 	}
+61 	return res;
+62 }
+63 int max(int num1, int num2)
+64 {
+65 	return (num1>=num2)? num1: num2;
+66 }
+   
+67 void fill_vect(int *v1, int N, int num){
+68 	for (int i = 0; i < N; i++){
+69 		v1[i] = num;
+70 	}
+71 }
+72 //Free memory which is used by matrixes
+73 void clear_mx(int **mx, int N){
+74 	#pragma omp parallel for
+75 	for (int i = 0; i < N; ++i){
+76 		free(mx[i]);
+77 	}
+78 	free(mx);
+79 }
+80 int **copyMatrix(int **mx, int n, int m, int start)
+81 {
+82     int **result = (int **)malloc(n * sizeof(int *));
+83     for (int i = 0; i < n; i++)
+84     {
+85         result[i] = (int *)malloc(m * sizeof(int));
+86     }
+87     for (int i = 0; i < n; i++)
+88     {
+89         for (int j = 0; j < m; j++)
+90         {
+91             result[i][j] = mx[start + i][j];
+92         }
+   
+93     }
+94     return result;
+95 }
+96 void copyToMatrix(int **mx1, int **mx2, int n, int m, int from)
+97 {
+98 	for (int i = 0; i < n; ++i)
+99 	{
+100 		for (int j = 0; j < m; j++)
+101 		{
+102 			mx1[from + i][j] = mx2[i][j];
+103 		}
+104 	}
+105 }
+106 void calculations(int **resultMX, int **mx1, int **mx2, int num1, int num2, int **mx3, int n, int from, int amount)
+107 {
+108 	// amount -> number of elements to take == N/P
+109 	// n -> number of elements in whole array == N
+110 	// start -> position whom which to start calculations == 0, N/P?, 2*N/P etc
+111 	int **firstMX = mx_product(mx1, mx2, amount, n, from);
+112 	mx_const_prodaction(firstMX, amount, n, from, num1);
+113 	mx_const_prodaction(mx3, amount, n, from, num2);
+114 	int **result_mx = mx_sum(firstMX, mx3, amount, n, from);
+115 	copyToMatrix(resultMX, result_mx, amount, n, from);
+116 	printf("result -> %d\n", result_mx[0][0]);
+117 }
+118 int **inputMatrix(int N, int number){
+119     int **mx = (int **)malloc(N * sizeof(int *));
+120     for (int i = 0; i < N; i++)
+121     {
+122         mx[i] = (int *)malloc(N * sizeof(int));
+123     }
+124     for (int i = 0; i < N; i++)
+125     {
+126         for (int j = 0; j < N; j++)
+127         {
+128             mx[i][j] = number;
+129         }
+   
+130     }
+131     return mx;
+132 }
+133 int *inputVector(int N, int number)
+134 {
+135     int *vector = (int *)malloc(N * sizeof(int));
+136     for (int i = 0; i < N; i++)
+137     {
+138         vector[i] = number;
+139     }
+140     return vector;
+141 }
+142 void printMatrix(int **mx, int n, int m)
+143 {
+144     for (int i = 0; i < n; i++)
+145     {
+146         for (int j = 0; j < m; j++)
+147         {
+148             printf("%d ", mx[i][j]);
+149         }
+150         printf("\n");
+151     }
+152 }
+153 int *copyVector(int *vect, int m, int pos)
+154 {
+155     int *result = (int *)malloc(m * sizeof(int));
+156     for (int i = 0; i < m; i++)
+157     {
+158         result[i] = vect[pos+i];
+159     }
+160     return result;
+161 }
