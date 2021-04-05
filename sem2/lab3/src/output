@@ -1,0 +1,29 @@
+ 1 //----------------------------------------------------------------
+ 2 //        --  Лабортаторна робота №3 Варіант 23
+ 3 //        --  X = sort(d*B + Z*(MM*MX))
+ 4 //        --  Шкардибарда І. ІВ-82
+ 5 //        --  Дата 09.03.2021
+ 6 //----------------------------------------------------------------
+ 7 public class lab3 {
+ 8     private static final int N = 8;
+ 9     private static final int P = 4;
+10     private static final Monitor monitor = new Monitor();
+11     public static void main(String[] args) {
+12         Task1 T1 = new Task1(N, P, monitor);
+13         Task2 T2 = new Task2(N, P, monitor);
+14         Task3 T3 = new Task3(N, P, monitor);
+15         Task4 T4 = new Task4(N, P, monitor);
+16         T1.start();
+17         T2.start();
+18         T3.start();
+19         T4.start();
+20         try {
+21             T1.join();
+22             T2.join();
+23             T3.join();
+24             T4.join();
+25         } catch (InterruptedException e) {
+26             e.printStackTrace();
+27         }
+28     }
+29 }
